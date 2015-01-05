@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = jhamant@gmail.com
+	name = Jean Hamant
